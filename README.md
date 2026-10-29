@@ -2,7 +2,7 @@
 
 Installers and update files for the Medeo desktop app.
 
-Download the latest version from [Releases](https://github.com/IsaqjonovII/medeo-releases/releases/latest).
+Download the latest version from [Releases](https://github.com/medeo-design/medeo-releases/releases/latest).
 
 | Platform | File |
 | --- | --- |
